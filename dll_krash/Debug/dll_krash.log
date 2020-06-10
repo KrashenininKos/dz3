@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  dllmain.cpp
+C:\Users\Anakim\Desktop\костя_3\dll_krash\factory.h(53,1): warning C4091: typedef : пропускается слева от "NTFS::showBoot::Data_NTFS", когда ни одна переменная не объявлена
+C:\Users\Anakim\Desktop\костя_3\dll_krash\dllmain.cpp(43,1): warning C4190: для "isExist" задана С-связывание, но возвращаемый тип UDT "std::basic_string<char,std::char_traits<char>,std::allocator<char>>" несовместим с языком Си
+C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.26.28801\include\xstring(4575): message : см. объявление "std::basic_string<char,std::char_traits<char>,std::allocator<char>>"
+     Создается библиотека C:\Users\Anakim\Desktop\костя_3\oop_krash\Debug\dll_krash.lib и объект C:\Users\Anakim\Desktop\костя_3\oop_krash\Debug\dll_krash.exp
+  dll_krash.vcxproj -> C:\Users\Anakim\Desktop\костя_3\oop_krash\Debug\dll_krash.dll
